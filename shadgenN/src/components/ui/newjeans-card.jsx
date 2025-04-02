@@ -10,9 +10,13 @@ export default function NewjeansCard({ name, role, profileImage, onBuy }) {
         <CardContent>
           <img src={profileImage} className="object-cover scale-100 transition duration-500  hover:scale-105 rounded-xl min-w-68 max-h-68" />
         </CardContent>
-        <CardFooter className="flex justify-between self-end gap-3">
-          <Button onClick={onBuy}>Buy</Button>
-          <Button variant="secondary">Sell</Button>
+        <CardFooter className="flex justify-between gap-3 w-full">
+          <Button onClick={onBuy} className="w-2/3">
+            Buy
+          </Button>
+          <Button variant="secondary" className="w-1/3">
+            Sell
+          </Button>
         </CardFooter>
       </CardHeader>
     </Card>
