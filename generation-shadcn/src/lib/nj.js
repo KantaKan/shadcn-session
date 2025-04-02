@@ -1,0 +1,42 @@
+export const newJeansMembers = [
+  {
+    name: "Minji",
+    role: "Leader, Lead Vocalist, Lead Dancer",
+    birthDate: "2004-05-07",
+    nationality: "Korean",
+    position: "Vocalist, Dancer",
+    profileImage: "https://i.pinimg.com/736x/0c/64/66/0c64669d65c3aa14dc1164c391a5a683.jpg",
+  },
+  {
+    name: "Hanni",
+    role: "Vocalist, Dancer",
+    birthDate: "2004-10-06",
+    nationality: "Vietnamese-Korean",
+    position: "Vocalist, Dancer",
+    profileImage: "https://i.pinimg.com/736x/69/1c/7d/691c7d46b7238995223280c651709bf6.jpg",
+  },
+  {
+    name: "Danielle",
+    role: "Vocalist, Dancer",
+    birthDate: "2005-04-11",
+    nationality: "Australian-Korean",
+    position: "Vocalist, Dancer",
+    profileImage: "https://i.pinimg.com/736x/9f/6b/70/9f6b7086873c750108bdd3a55a1a8513.jpg",
+  },
+  {
+    name: "Haerin",
+    role: "Vocalist, Lead Rapper",
+    birthDate: "2006-05-15",
+    nationality: "Korean",
+    position: "Vocalist, Rapper",
+    profileImage: "https://i.pinimg.com/736x/3e/d7/c2/3ed7c2902f916a2c85f253fb36a39469.jpg",
+  },
+  {
+    name: "Hyein",
+    role: "Maknae, Lead Dancer, Vocalist",
+    birthDate: "2008-04-21",
+    nationality: "Korean",
+    position: "Vocalist, Dancer",
+    profileImage: "https://i.pinimg.com/736x/7f/76/e9/7f76e9a359a7ced6e95b828430f6d7c5.jpg",
+  },
+];
